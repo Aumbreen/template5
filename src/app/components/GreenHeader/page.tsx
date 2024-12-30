@@ -10,11 +10,11 @@ export default function GreenHeader() {
         <div className="flex gap-[10px]">
           <button className="flex items-center gap-[5px] p-[10px] text-white">
              <Image src="/Vector (45).png" alt="phone" width={16} height={16} />
-            <span className="font-Montserrat font-semibold text-[14px]"> (225) 555-0118</span>
+            <span className="font-Montserrat font-semibold text-[14px] hover:underline"> (225) 555-0118</span>
           </button>
           <button className="flex items-center gap-[5px] p-[10px] text-white rounded-[5px]">
             <Image src="/Vector (46).png" alt="mail" width={16} height={16} />
-            <span className="font-Montserrat text-[14px]">michelle.rivera@example.com</span>
+            <span className="font-Montserrat text-[14px] hover:underlinen">michelle.rivera@example.com</span>
           </button>
         </div>
         
