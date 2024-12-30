@@ -10,6 +10,7 @@ import Link from 'next/link';
         <div className="bg-[#252B42] text-white flex flex-wrap justify-between items-center px-4  md:flex-nowrap">
           <div className="flex items-center gap-2">
            <Link href="/phone"><Phone className="w-4 h-4"/> </Link>
+
           <h6> <Link href="/(225) 555-0118">(225) 555-0118</Link></h6>
           </div>
   

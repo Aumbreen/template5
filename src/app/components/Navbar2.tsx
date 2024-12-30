@@ -3,9 +3,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 
-// Define paths to images (ensure these files exist in your public folder
-// const cartIcon = "/cart-icon.
 
+// Define paths to images (ensure these files exist in your public folder
+<Image src="/Vector (37).png" width={10} height={10} alt="text" />
 export default function Navbar2() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 

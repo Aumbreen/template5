@@ -1,14 +1,17 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
+
 import { useState } from "react";
 
-// Define paths to images (ensure these files exist in your public folder)
-// const userIcon = "/Vector (14).png";
-// const searchIcon = "/Vector (20).png";
-//  const cartIcon = "//icn settings icn-xs (2).png";
-// const mail = "/mail.png";
+// Define paths to images (ensure these files exist in your public folder
 
+<div className="flex space-x-4 items-center">
+<Image src="/Vector (14).png" alt="User" width={20} height={20} />
+ <Image src="/Vector (37).png" alt="Cart" width={20} height={20} /> 
+ <Image src="/icn settings .icn-xl (2)..png" alt="mail" width={20} height={20} /> 
+
+</div>
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
