@@ -62,7 +62,7 @@ export default function AboutUs() {
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 mt-10">
               {[
-                { name: "Emily Rose", role: "Software Engineer", image: "/Aboutorangegirl.jpg" },
+                { name: "Emily Rose", role: "Software Engineer", image:"/girl1.jpg" },
                 { name: "Jane Smith", role: "Marketing Head", image: "/Aboutredgirl.jpg" },
                 { name: "John Doe", role: "UI/UX Designer", image: "/aboutman.jpg" },
               ].map((member, index) => (
