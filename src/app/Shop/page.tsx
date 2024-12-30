@@ -1,7 +1,8 @@
 import Image from "next/image";
-import GreenHeader from "../components/GreenHeader/page";
+
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import GreenHeader from "../components/GreenHeader/page";
 
 
 export default function Shop () {

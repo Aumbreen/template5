@@ -7,7 +7,7 @@ export default function Universe() {
         {/* Image Section */}
         <div className="relative w-full lg:w-[707px] h-[400px] lg:h-[682px] flex justify-center">
           <Image
-            src="/5section.jpg"
+            src="/asian-woman-man-with-winter-clothes 1.png"
             alt="lovers"
             width={704}
             height={682}

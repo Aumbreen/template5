@@ -29,7 +29,7 @@ export default function GreenHeader() {
              <Image src="/icn settings icn-xs (3).png" alt="Instagram" width={14} height={14} /> 
             <Image src="/Vector (8).png" alt="YouTube" width={18} height={14} />
             <Image src="/Vector (10).png" alt="Facebook" width={10} height={14} /> 
-            <Image src="/Vector (32).png"  alt="text"width={18} height={14}  />
+            <Image src="/ant-design_twitter-outlined.png"  alt="twitter"width={18} height={14}  />
           </div>
         </div>
       </div>

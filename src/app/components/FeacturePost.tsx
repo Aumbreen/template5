@@ -8,7 +8,7 @@ export default function FeaturePost() {
       description: "We focus on ergonomics and meeting you where you work. It's only a keystroke away.",
       date: "22 April 2021",
       comments: 10,
-      image: "/f1.jpg",
+      image: "/unsplash_hHdHCfAifHU.png",
     },
     {
       id: 2,
@@ -16,7 +16,7 @@ export default function FeaturePost() {
       description: "We focus on ergonomics and meeting you where you work. It's only a keystroke away.",
       date: "22 April 2021",
       comments: 10,
-      image: "/f2.jpg",
+      image: "/unsplash_tVEqStC2uz8.png",
       
     },
     {
@@ -25,7 +25,7 @@ export default function FeaturePost() {
       description: "We focus on ergonomics and meeting you where you work. It's only a keystroke away.",
       date: "22 April 2021",
       comments: 10,
-      image: "/f3.jpg",
+      image: "/unsplash_dEGu-oCuB1Y.png",
     },
   ];
 
